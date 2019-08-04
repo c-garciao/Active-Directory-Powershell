@@ -1,0 +1,30 @@
+1.Recomendable leer comentarios en el codigo
+2.El codigo esta dividido en funciones , separadas en grupos (de usuarios, de UO, etc):
+		<Estructura_para_el_usuario>																						
+			*Usuarios																						
+				-Alta																						
+				-Baja																						
+				-Listado																						
+				-Cambiar Contrasenia																						
+				-Aniadir usuario a Ud. Org.																							
+				-Borrar usuario de Ud. Org.													
+			*Grupos													
+				-Alta
+				-Baja													
+				-Listado													
+				-Aniadir usu a grupo													
+				-Borrar usu de grupo													
+				-Aniadir Grupo a Ud. Org.													
+				-Borrar Grupo de Ud. Org.													
+			*Ud. Org.													
+				-Alta													
+				-Baja													
+				-Listado													
+				-Mover Ud. Org.													
+			*Carpetas Compartidas													
+				-Crear													
+				-Borrar													
+				-Listar													
+
+3.Las opciones de GPO y DNS NO estan implementadas (no he podido hacerlas)
+4.Hay control y gestion simple de errores (campos nulos, rutas que no existan, intentar listar objetos vacios, etc)
