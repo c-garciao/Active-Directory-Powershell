@@ -21,70 +21,25 @@ Set-ExecutionPolicy Unrestricted
 Solo es necesario ejecutar el script:
 
 ```
-.\
+.\ 	AD_Carlos_Garcia_Oliva.ps1
 ```
-Creación de la Base de Datos e inserción de registros
-```
-Cargar fichero sentencia1.sql
-```
-Una vez descargado, iniciar Apache, MySQL y ejecutar index.php
-```
-until finished
-```
-* Linux
-```
-/etc/init.d/apache2 start
-```
-* Windows (panel de XAMPP)
-```
-Arrancar Apache
-Arrancar MySQL
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+El script comprobará automáticamente si se está ejecuntado desde un dominio AD. En caso contrario, no continuará con la ejecución del script.
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (primer nivel), no para SUBDOMINIOS
 
 ## Built With
 
 * [Atom](https://atom.io/) - Editor de texto utilizado
 * [Powershell ISE](https://docs.microsoft.com/es-es/powershell/scripting/components/ise/introducing-the-windows-powershell-ise?view=powershell-6) - IDE utilizado
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Carlos Garcia** - *Programación* - [c-garciao](https://gist.github.com/c-garciao)
-
-Lista de contribuidores [contributors](https://github.com/your/project/contributors) que participaron en este proyecto.
 
 ## License
 
@@ -93,4 +48,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 ## Agradecimientos
 
 * A Mario y Antonio, mis profesores de sistemas operativos
-* [Documentación de Microsoft] (https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps)
+* [Documentación de Microsoft] (https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps) 
