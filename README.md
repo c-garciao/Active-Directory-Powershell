@@ -1,5 +1,5 @@
-# Proyecto administración Active Directory mediante Powershell
-Administración de servidores AD mediante Powershell
+# Administración dominios AD mediante Powershell
+Administración de servidores Active Directory mediante Powershell
 ## Getting Started
 
 Proyecto creado con la finalidad de facilitar tareas a l@s adminitradores de sistemas.
