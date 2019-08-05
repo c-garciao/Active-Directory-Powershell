@@ -26,12 +26,12 @@ Solo es necesario ejecutar el script (necesarios privilegios de administrador):
 ```
 .\AD_Carlos_Garcia_Oliva.ps1
 ```
-## Running the tests
+## Comprobación del entorno
 
 El script comprobará automáticamente si se está ejecuntado desde un dominio AD. En caso contrario, no continuará con la ejecución del script.
 
 Para comprender mejor la estructuración del mismo, es recomendable leer el fichero de [comentarios](./Comentarios.txt).
-### And coding style tests
+## Aviso importante
 
 Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (primer nivel), no para SUBDOMINIOS
 
@@ -42,9 +42,9 @@ Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (prime
 * [VirtualBox](https://www.virtualbox.org/) - Entorno de virtualización utilizado
 * [Windows Server 2012 R2](https://www.microsoft.com/es-es/evalcenter/evaluate-windows-server-2012-r2) - Sistema operativo empleado para desplegar el directorio activo (AD)
 
-## Authors
+## Autor
 
-* **Carlos Garcia** - *Programación* - [c-garciao](https://gist.github.com/c-garciao)
+* **Carlos Garcia** - *Programación y documentación* - [c-garciao](https://gist.github.com/c-garciao)
 
 ## License
 
