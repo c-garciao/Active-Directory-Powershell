@@ -53,4 +53,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 ## Agradecimientos
 
 * A Mario y Antonio, mis profesores de sistemas operativos
-* Web documentación de [Microsoft](https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps) 
+* Web de documentación de Active Directory [Microsoft](https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps) 
