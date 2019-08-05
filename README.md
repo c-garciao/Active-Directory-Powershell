@@ -31,11 +31,11 @@ Solo es necesario ejecutar el script (necesarios privilegios de administrador):
 El script comprobará automáticamente si se está ejecuntado desde un dominio AD. En caso contrario, no continuará con la ejecución del script.
 
 Para comprender mejor la estructuración del mismo, es recomendable leer el fichero de [comentarios](./Comentarios.txt).
-## Aviso importante
+# Aviso importante
 
 Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (primer nivel), no para SUBDOMINIOS
 
-## Built With
+### Built With
 
 * [Atom](https://atom.io/) - Editor de texto utilizado
 * [Powershell ISE](https://docs.microsoft.com/es-es/powershell/scripting/components/ise/introducing-the-windows-powershell-ise?view=powershell-6) - IDE utilizado
