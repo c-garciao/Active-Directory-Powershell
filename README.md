@@ -12,7 +12,7 @@ Necesario Windows Server (2008 o superior)
 ```
 Get-ExecutionPolicy
 ```
-* Habilitar la ejecución de Scripts
+* Habilitar la ejecución de Scripts (en caso de que estuviese deshabilitada)
 ```
 Set-ExecutionPolicy Unrestricted
 ```
