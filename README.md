@@ -18,10 +18,10 @@ Set-ExecutionPolicy Unrestricted
 ```
 ### Instalación
 
-Solo es necesario ejecutar el script:
+Solo es necesario ejecutar el script (necesarios privilegios de administrador):
 
 ```
-.\ 	AD_Carlos_Garcia_Oliva.ps1
+.\AD_Carlos_Garcia_Oliva.ps1
 ```
 ## Running the tests
 
