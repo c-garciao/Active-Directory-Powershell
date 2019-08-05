@@ -27,7 +27,7 @@ Solo es necesario ejecutar el script (necesarios privilegios de administrador):
 
 El script comprobará automáticamente si se está ejecuntado desde un dominio AD. En caso contrario, no continuará con la ejecución del script.
 
-Para comprender mejor la estructuración del mismo, es recomendable leer el fichero de [comentarios](./Comentarios.txt)
+Para comprender mejor la estructuración del mismo, es recomendable leer el fichero de [comentarios](./Comentarios.txt).
 ### And coding style tests
 
 Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (primer nivel), no para SUBDOMINIOS
