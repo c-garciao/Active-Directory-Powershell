@@ -6,7 +6,10 @@ Proyecto creado con la finalidad de facilitar tareas a l@s adminitradores de sis
 
 ### Requisitos
 
-Necesario Windows Server (2008 o superior)
+* Necesario Windows Server (2008 o superior)
+```
+winver
+```
 
 * Comprobar el estado de la ejecución de Scripts
 ```
