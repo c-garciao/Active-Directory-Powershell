@@ -36,6 +36,8 @@ Está creado para funcionar con dominios de que forman un BOSQUE PRIMARIO (prime
 
 * [Atom](https://atom.io/) - Editor de texto utilizado
 * [Powershell ISE](https://docs.microsoft.com/es-es/powershell/scripting/components/ise/introducing-the-windows-powershell-ise?view=powershell-6) - IDE utilizado
+* [VirtualBox](https://www.virtualbox.org/) - Entorno de virtualización utilizado
+* [Windows Server 2012 R2](https://www.microsoft.com/es-es/evalcenter/evaluate-windows-server-2012-r2) - Sistema operativo empleado para desplegar el directorio activo (AD)
 
 ## Authors
 
